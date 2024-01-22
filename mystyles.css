@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text{
+    font-family: 'Outfit', sans-serif;
+}
+
+.rec{
+    color: #0000EE;
+}
+
+.rec:hover {
+    color: #9CB8FF;
+}
+
